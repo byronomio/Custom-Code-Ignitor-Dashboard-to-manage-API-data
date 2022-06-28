@@ -1,0 +1,23 @@
+[14-Dec-2020 20:34:40 Africa/Johannesburg] PHP Parse error:  syntax error, unexpected 'GOOgle86' (T_STRING), expecting ',' or ';' in /home/byronsde/dash.byronsdesigns.co.za/crud/config.php on line 4
+[14-Dec-2020 20:35:04 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php on line 99
+[14-Dec-2020 20:35:31 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php on line 99
+[14-Dec-2020 20:36:06 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php on line 99
+[14-Dec-2020 20:36:07 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php on line 99
+[14-Dec-2020 20:39:44 Africa/Johannesburg] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::get_result() in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/byronsde/dash.byronsdesigns.co.za/crud/index.php on line 99
+[14-Dec-2020 20:42:33 Africa/Johannesburg] PHP Warning:  move_uploaded_file(uploads/fav.png): failed to open stream: No such file or directory in /home/byronsde/dash.byronsdesigns.co.za/crud/action.php on line 24
+[14-Dec-2020 20:42:33 Africa/Johannesburg] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsl1yrZ' to 'uploads/fav.png' in /home/byronsde/dash.byronsdesigns.co.za/crud/action.php on line 24
